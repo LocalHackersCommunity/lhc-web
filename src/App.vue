@@ -8,10 +8,10 @@ const count = ref(0)
   <main class="page-shell">
     <header class="topbar">
       <a class="brand" href="./" aria-label="LHC Web home">
-        <span class="brand-mark">L</span>
-        <span>LHC Web</span>
+        <span class="brand-mark">LHC</span>
+        <span>Local Hackers Community</span>
       </a>
-      <span class="topbar-note">Vite + Vue 3</span>
+      <span class="topbar-note">Love and Peace</span>
     </header>
 
     <section class="hero" aria-labelledby="hero-title">
